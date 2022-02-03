@@ -1,0 +1,8 @@
+com/example/mentalcounting/ScoreActivity.java
+ com.example.mentalcounting.ScoreActivity
+com/example/mentalcounting/GameActivity.java
+ com.example.mentalcounting.GameActivity
+com/example/mentalcounting/BuildConfig.java
+ com.example.mentalcounting.BuildConfig
+com/example/mentalcounting/MainActivity.java
+ com.example.mentalcounting.MainActivity
